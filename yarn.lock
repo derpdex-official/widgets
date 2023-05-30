@@ -1113,14 +1113,14 @@
     tiny-warning "^1.0.3"
     zksync-web3 "^0.14.3"
 
-"@derpdex/smart-order-router@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@derpdex/smart-order-router/-/smart-order-router-1.0.2.tgz#e640d3324c28cdba997f4aabbb484ced87e19b6a"
-  integrity sha512-W2tF84HkK5C1zycLyzrGEquGdH5K/rdhQzV4ieq4ilxRhQh7w549bY2XQbtrIRfQsR0gpEoMLYfYgNw64Rf8ng==
+"@derpdex/smart-order-router@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@derpdex/smart-order-router/-/smart-order-router-1.0.3.tgz#c903d444794e13157a4c34f07e06a7e779319702"
+  integrity sha512-Bh4xD18GwMikghVlh/mdHmE10n3/nyYM5CgWr4b9FOLRmojLCL5zLgJVwEtA6+PAV1fHKqjI/dPJxlBFOkZyOA==
   dependencies:
     "@derpdex/router-sdk" "^1.0.0"
     "@derpdex/sdk" "^1.0.1"
-    "@derpdex/universal-router-sdk" "^1.0.4"
+    "@derpdex/universal-router-sdk" "^1.0.5"
     "@uniswap/default-token-list" "^2.0.0"
     "@uniswap/permit2-sdk" "^1.2.0"
     "@uniswap/swap-router-contracts" "^1.3.0"
@@ -1141,10 +1141,10 @@
     node-cache "^5.1.2"
     stats-lite "^2.2.0"
 
-"@derpdex/universal-router-sdk@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@derpdex/universal-router-sdk/-/universal-router-sdk-1.0.4.tgz#6b3e1464e37359ac176a982e49d2cde464eb9e80"
-  integrity sha512-zO7/E4sWOzFMbPcScD138nllnpN/t2KhCx7pQPD55GikKtjk+KPaE7lkmwELxilLQrZafa0dIHcjvZwC/2ASYQ==
+"@derpdex/universal-router-sdk@^1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@derpdex/universal-router-sdk/-/universal-router-sdk-1.0.5.tgz#87d5b8873a673336434bf4609b9e0690a47f9f71"
+  integrity sha512-7nwfSKjg2Mw7m/VcqooTDv4tQt/Ln8q2HJkt8jwQhnLlBS1Mc56xWv3igfCyAg/cPM65ifDqeSdU4IUyj+/+Lw==
   dependencies:
     "@derpdex/router-sdk" "^1.0.0"
     "@derpdex/sdk" "^1.0.1"
