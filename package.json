@@ -6,7 +6,7 @@
   "files": [
     "dist"
   ],
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publishConfig": {
     "access": "public"
   },
@@ -64,9 +64,9 @@
     "@babel/runtime": ">=7.17.0",
     "@derpdex/permit2-sdk": "^1.0.3",
     "@derpdex/router-sdk": "^1.0.0",
-    "@derpdex/sdk": "^1.0.1",
-    "@derpdex/smart-order-router": "^1.0.4",
-    "@derpdex/universal-router-sdk": "^1.0.6",
+    "@derpdex/sdk": "^1.0.2",
+    "@derpdex/smart-order-router": "^1.0.5",
+    "@derpdex/universal-router-sdk": "^1.0.7",
     "@fontsource/ibm-plex-mono": "^4.5.1",
     "@fontsource/inter": "^4.5.1",
     "@popperjs/core": "^2.4.4",
