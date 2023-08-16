@@ -1113,10 +1113,10 @@
     tiny-warning "^1.0.3"
     zksync-web3 "^0.14.3"
 
-"@derpdex/smart-order-router@^1.0.16":
-  version "1.0.16"
-  resolved "https://registry.yarnpkg.com/@derpdex/smart-order-router/-/smart-order-router-1.0.16.tgz#1645f08b08252f9efef6dec6604ebf549c9e7f9d"
-  integrity sha512-DRHI65p/e8OoSTwwq8bMeKE/hIJHmyXSTKJHsA1r0O+1aaQpGRbP+qrieavpN0SVUIME+zx7vwUvWr9El43LBA==
+"@derpdex/smart-order-router@^1.0.17":
+  version "1.0.17"
+  resolved "https://registry.yarnpkg.com/@derpdex/smart-order-router/-/smart-order-router-1.0.17.tgz#bc6d604aa3ad4f2925267a79c5327c9188d23f8a"
+  integrity sha512-oCEBVe708AKbjPrby07nL03GjQyV66exizvJT/sgdpLOBiXnif3tYhnHV1CgeSjj0fXPi1lR8yqS+hpa4frIGg==
   dependencies:
     "@derpdex/router-sdk" "^1.0.6"
     "@derpdex/sdk" "^1.0.6"
