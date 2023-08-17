@@ -6,7 +6,7 @@
   "files": [
     "dist"
   ],
-  "version": "1.0.19",
+  "version": "1.0.20",
   "publishConfig": {
     "access": "public"
   },
@@ -65,7 +65,7 @@
     "@derpdex/permit2-sdk": "^1.0.5",
     "@derpdex/router-sdk": "^1.0.7",
     "@derpdex/sdk": "^1.0.7",
-    "@derpdex/smart-order-router": "^1.0.20",
+    "@derpdex/smart-order-router": "^1.0.21",
     "@derpdex/universal-router-sdk": "^1.0.17",
     "@fontsource/ibm-plex-mono": "^4.5.1",
     "@fontsource/inter": "^4.5.1",
