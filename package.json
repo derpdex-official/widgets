@@ -6,7 +6,7 @@
   "files": [
     "dist"
   ],
-  "version": "1.1.0",
+  "version": "1.1.1",
   "publishConfig": {
     "access": "public"
   },
@@ -62,11 +62,11 @@
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@babel/runtime": ">=7.17.0",
-    "@derpdex/permit2-sdk": "^1.0.5",
+    "@derpdex/permit2-sdk": "^1.0.6",
     "@derpdex/router-sdk": "^1.0.7",
     "@derpdex/sdk": "^1.0.7",
-    "@derpdex/smart-order-router": "^1.1.0",
-    "@derpdex/universal-router-sdk": "^1.0.18",
+    "@derpdex/smart-order-router": "^1.1.1",
+    "@derpdex/universal-router-sdk": "^1.0.19",
     "@fontsource/ibm-plex-mono": "^4.5.1",
     "@fontsource/inter": "^4.5.1",
     "@popperjs/core": "^2.4.4",
