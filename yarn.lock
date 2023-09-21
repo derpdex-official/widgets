@@ -1078,10 +1078,10 @@
   dependencies:
     "@jridgewell/trace-mapping" "0.3.9"
 
-"@derpdex/permit2-sdk@^1.0.6":
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/@derpdex/permit2-sdk/-/permit2-sdk-1.0.6.tgz#1b2a3a011a7db880169aa1f86daf510176c43b0c"
-  integrity sha512-WbzAHXEvZacRMWsl8dRj/0ab3ZcbWZDlA+V0JXkdk77Ifs1CM925V1500sERgSe2ENYf1rZBHUTMFQuajrU3lA==
+"@derpdex/permit2-sdk@^1.0.7":
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/@derpdex/permit2-sdk/-/permit2-sdk-1.0.7.tgz#1143deb979d72fbdbaf2cde726ac0a5012fb7988"
+  integrity sha512-94/49+eECXWOuXtG21dfSfh8aC8Gf2bcDf97ND+EODSwxU+TMlEIa4s4aBSxRHiKU3Q8J70I61/PAWFiX7krxw==
   dependencies:
     ethers "^5.3.1"
     tiny-invariant "^1.3.1"
@@ -1113,14 +1113,14 @@
     tiny-warning "^1.0.3"
     zksync-web3 "^0.14.3"
 
-"@derpdex/smart-order-router@^1.1.1":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@derpdex/smart-order-router/-/smart-order-router-1.1.1.tgz#2d7933e7b29826266791a56cfc48e8d19ce2d43b"
-  integrity sha512-9JiUBRwFYuJNn4SY0BJLKIZlwWjnluUJB1HphGzyh67h3c4mWRnAKxTeH6LiUK8T819TNctjis36YAdQ3mtghg==
+"@derpdex/smart-order-router@^1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@derpdex/smart-order-router/-/smart-order-router-1.1.2.tgz#436121fba2de87e8c311d18bb30ae29bb2fe7f55"
+  integrity sha512-nDx4xOlXxabov75Qcx1m02dv9aHUJ3T3oga5beoOhznx0p1zRrA0M+fB/3CXRLyriG42uvtT+GIxhZKqBtjk8w==
   dependencies:
     "@derpdex/router-sdk" "^1.0.7"
     "@derpdex/sdk" "^1.0.7"
-    "@derpdex/universal-router-sdk" "^1.0.19"
+    "@derpdex/universal-router-sdk" "^1.1.0"
     "@uniswap/default-token-list" "^2.0.0"
     "@uniswap/permit2-sdk" "^1.2.0"
     "@uniswap/swap-router-contracts" "^1.3.0"
@@ -1141,10 +1141,10 @@
     node-cache "^5.1.2"
     stats-lite "^2.2.0"
 
-"@derpdex/universal-router-sdk@^1.0.19":
-  version "1.0.19"
-  resolved "https://registry.yarnpkg.com/@derpdex/universal-router-sdk/-/universal-router-sdk-1.0.19.tgz#8cb61b08f3ff70318977df8c3c63eb92ea066e68"
-  integrity sha512-LGWZNm710LdlsmUcd28pBXK+jbz/6ChSzoSHLOYVqmhvIYWqMfIpqFEODI70cgsBKyd+Oa5vORjeBWuzdnW8Vg==
+"@derpdex/universal-router-sdk@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@derpdex/universal-router-sdk/-/universal-router-sdk-1.1.0.tgz#98d404b173f19bb12f9341f8ba9110560fcb5119"
+  integrity sha512-lqdNRrTq03EIu0BSzMH8JIc8hbpK+AOCusHTKzLfyO8QVfUK2OnU/5Gt64CQfK1kxxfksUYfnadngvBhX0xqng==
   dependencies:
     "@derpdex/router-sdk" "^1.0.7"
     "@derpdex/sdk" "^1.0.7"
